@@ -8,7 +8,7 @@ In fact, I can go an hour further and put a reusable maple leaf view on Github. 
 
 From me, absolutely none. This code is public domain or CC0, depending on what gives you the most reusability. I claim not ownership and accept no responsibility.
 
-I can't even tell you not to use it if you're not Canadian, but ***come on***. Behave.
+I can't even tell you not to use it if you're not Canadian, but ***come on***. Behave. (Copying it and changing it to your own country is still behaving, though there's so little code here there's not much point.)
 
 * I don't guarantee it won't explode your computer, though it certainly seems unlikely.
 * I don't guarantee that your business partners/employers won't go apeshit on you. You should probably ask them.

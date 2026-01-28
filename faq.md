@@ -2,7 +2,7 @@
 
 Because I'm a Canadian and I wanted to put a maple leaf in my app. I woke up mad at the state of the world, as many of us likely do. There's not much I can do about the world, but I can put a maple leaf in my app.
 
-In fact, I can go an hour further and put a reusable maple leaf view on Github.
+In fact, I can go an hour further and put a reusable maple leaf view on Github. To be clear, nobody needs this github repository as a submodule. Copy the code, implement it yourself, do something entirely different. I don't care at all. But I'm publishing it because I can.
 
 **What restrictions are there on its use?**
 

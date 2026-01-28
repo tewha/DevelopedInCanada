@@ -3,4 +3,4 @@ A simple view to fly your (not at all freak) flag.
 
 See also the [faq](faq.md).
 
-<img width="321" height="694" alt="Simulator Screenshot - iPhone 6 5  - 2026-01-28 at 10 58 37" src="https://github.com/user-attachments/assets/a86c0744-5bc3-42d5-ab75-f64a77157af3" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone SE (2nd generation) - 2026-01-28 at 13 03 25" src="https://github.com/user-attachments/assets/2eb70545-a846-49d9-b619-e5093c32c0ba" />

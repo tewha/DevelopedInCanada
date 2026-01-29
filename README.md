@@ -7,6 +7,7 @@ Features:
 * Optionally, you could say it was *proudly* developed in Canada, but you'll have to edit the code.
 * Shows a maple leaf beside that.
 * Automatically adapts to dark mode. Credit goes to Canada for picking a nice red.
+* That's it, if we're being honest.
 
 See also the [faq](faq.md).
 
